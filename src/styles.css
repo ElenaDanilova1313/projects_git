@@ -4,4 +4,5 @@ h1 {
 
 span {
     color: white;
+    border: 1px solid blue;
 }
